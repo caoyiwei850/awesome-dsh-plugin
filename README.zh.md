@@ -574,6 +574,8 @@ dsh plugin --profile web add dshmarket
 - [cloader/dsh-taskboard](https://github.com/cloader/dsh-taskboard) — dsh 的任务看板：创建任务时可指定项目与模型，支持手动执行及定时执行；项目内新建会话会自动拉取该项目的待办任务，完成后移至待验收。
 - [PerryLink/dsh-auto-review](https://github.com/PerryLink/dsh-auto-review) — 审批链上的第二模型自动审查：只读审查子代理返回带理由的 allow/deny 结构化裁决，默认 fail-closed。
 
+- [kmagwenzi/dsh-ai-suplex](https://github.com/kmagwenzi/dsh-ai-suplex) — 在本地 markdown 仓库上运行文件优先的执行循环：上下文简报、任务清单、产出归档、会话收尾、经验提取，以及需人工批准的记忆提升。
+
 ### 🔔 通知与集成
 - [STARDUSTLC666/dsh-slack](https://github.com/STARDUSTLC666/dsh-slack) — Slack 双向通信（notify/channels/inbox/reply，Socket Mode 免公网回调）。
 - [STARDUSTLC666/dsh-dingtalk](https://github.com/STARDUSTLC666/dsh-dingtalk) — 钉钉群机器人通知（webhook + 加签，零运行时依赖）。

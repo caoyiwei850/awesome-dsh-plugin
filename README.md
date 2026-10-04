@@ -573,6 +573,8 @@ dsh plugin --profile web add dshmarket
 - [cloader/dsh-taskboard](https://github.com/cloader/dsh-taskboard) - Task board for DSH: create tasks with project and model assignment, run them manually or on cron schedules; new sessions in a project automatically pick up its todo tasks and move them to in-review when done.
 - [PerryLink/dsh-auto-review](https://github.com/PerryLink/dsh-auto-review) - Second-model auto-review on the approval answerer chain: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default.
 
+- [kmagwenzi/dsh-ai-suplex](https://github.com/kmagwenzi/dsh-ai-suplex) - Runs a file-first execution loop over a local markdown vault: context brief, tasklists, artifact capture, session close, lesson extraction, and memory promotion behind an approval gate.
+
 ### Notifications & Integrations
 
 - [STARDUSTLC666/dsh-slack](https://github.com/STARDUSTLC666/dsh-slack) - Two-way Slack messaging (notify/channels/inbox/reply) over Socket Mode, no public callback needed.
